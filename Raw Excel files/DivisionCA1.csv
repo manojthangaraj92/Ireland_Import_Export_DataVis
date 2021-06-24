@@ -1,0 +1,70 @@
+,General Division,Division Descriptions,Division_id
+0,Food and live animals,Live animals other than animals of Division 03,00
+1,Food and live animals,Meat & meat preparations,01
+2,Food and live animals,Dairy products & birds’ eggs,02
+3,Food and live animals,"Fish, crustaceans, molluscs and preparations thereof",03
+4,Food and live animals,Cereals & cereal preparations,04
+5,Food and live animals,Vegetables & fruit,05
+6,Food and live animals,"Sugar, sugar preparation & honey",06
+7,Food and live animals,"Coffee, tea cocoa, spices & manufactures thereof",07
+8,Food and live animals,Feeding stuff for animals (excl. unmilled cereals),08
+9,Food and live animals,Miscellaneous edible products & preparations,09
+10,Beverages and tobacco,Beverages,11
+11,Beverages and tobacco,Tobacco & tobacco manufactures,12
+12,"Crude materials, inedible, except fuels","Hides, skins & furskins, raw",21
+13,"Crude materials, inedible, except fuels",Oil seeds & oleaginous fruits,22
+14,"Crude materials, inedible, except fuels",Crude rubber (include synthetic & reclaimed),23
+15,"Crude materials, inedible, except fuels",Cork & wood,24
+16,"Crude materials, inedible, except fuels",Pulp & waste paper,25
+17,"Crude materials, inedible, except fuels",Textile fibres & their wastes,26
+18,"Crude materials, inedible, except fuels","Crude fertilisers & minerals, excl. coal, petroleum etc.",27
+19,"Crude materials, inedible, except fuels",Metalliferous ores & metal scrap,28
+20,"Crude materials, inedible, except fuels",Crude animal & vegetable materials nes,29
+21,"Mineral fuels, lubricants and related products","Coal, coke & briquettes",32
+22,"Mineral fuels, lubricants and related products","Petroleum, petroleum products & related materials",33
+23,"Mineral fuels, lubricants and related products","Gas, natural & manufactured",34
+24,"Mineral fuels, lubricants and related products",Electric current,35
+25,"Animal and vegetable oils, fats and waxes",Animal oils & fats,41
+26,"Animal and vegetable oils, fats and waxes",Fixed vegetable fats & oils,42
+27,"Animal and vegetable oils, fats and waxes",Animal or vegetable materials nes,43
+28,Chemicals and related products nes,Organic chemicals,51
+29,Chemicals and related products nes,Inorganic chemicals,52
+30,Chemicals and related products nes,"Dyeing, tanning & colouringmaterials",53
+31,Chemicals and related products nes,Medical & pharmaceutical products,54
+32,Chemicals and related products nes,"Essential oils, perfume materials; toilet & cleansing preps",55
+33,Chemicals and related products nes,Fertilisers (other than those of Division 27),56
+34,Chemicals and related products nes,Plastics in primary forms,57
+35,Chemicals and related products nes,Plastics in non-primary forms,58
+36,Chemicals and related products nes,Chemical materials & products nes,59
+37,Manufactured goods classified chiefly by material,Leather; leather manufactures nes; dressed furskins,61
+38,Manufactured goods classified chiefly by material,Rubber manufactures nes,62
+39,Manufactured goods classified chiefly by material,Cork & wood manufactures (excl. furniture),63
+40,Manufactured goods classified chiefly by material,"Paper, paperboard & articles thereof",64
+41,Manufactured goods classified chiefly by material,"Textile yarn, fabrics, made-up articles & related products",65
+42,Manufactured goods classified chiefly by material,Non-metallic mineral manufactures nes,66
+43,Manufactured goods classified chiefly by material,Iron & steel,67
+44,Manufactured goods classified chiefly by material,Non-ferrous metals,68
+45,Manufactured goods classified chiefly by material,Manufactures of metals nes,69
+46,Machinery & transport equipment,Power generating machinery & equipment,71
+47,Machinery & transport equipment,Machinery specialised for particular industries,72
+48,Machinery & transport equipment,Metalworking machinery,73
+49,Machinery & transport equipment,General industrial machinery & equipment nes & parts nes,74
+50,Machinery & transport equipment,Office machines & automatic data processing machines,75
+51,Machinery & transport equipment,Telecommunications & sound equipment,76
+52,Machinery & transport equipment,"Electrical machinery, apparatus & appliances nes & parts",77
+53,Machinery & transport equipment,Road vehicles (include. air-cushion vehicles),78
+54,Machinery & transport equipment,Other transport equipment,79
+55,Miscellaneous manufactured articles,Prefab buildings; plumbing & electrical fixtures & fittings,81
+56,Miscellaneous manufactured articles,"Furniture & parts thereof; bedding, cushions etc",82
+57,Miscellaneous manufactured articles,"Travel goods, handbags & similar containers",83
+58,Miscellaneous manufactured articles,Articles of apparel; clothing accessories,84
+59,Miscellaneous manufactured articles,Footwear,85
+60,Miscellaneous manufactured articles,"Professional, scientific & controlling apparatus nes",87
+61,Miscellaneous manufactured articles,Photographic apparatus; optical goods; watches clocks,88
+62,Miscellaneous manufactured articles,Miscellaneous manufactured articles nes,89
+63,Commodities and transactions not classified elsewhere,Postal packages not classified according to kind,91
+64,Commodities and transactions not classified elsewhere,Special transactions and commodities not classified according to kind,93
+65,Commodities and transactions not classified elsewhere,"Coin ( other than gold coin ), not being legal tender",96
+66,Commodities and transactions not classified elsewhere,"Gold, non-monetary ( excluding gold ores and concentrates )",97
+67,Commodities and transactions not classified elsewhere,Gold coin,98
+68,Commodities and transactions not classified elsewhere,All other commodities and transactions,99
